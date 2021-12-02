@@ -4,7 +4,7 @@ namespace Assignment.Api.DTO
 {
     public record OrderReturnDTO
     {
-        public List<Product> Products { get; init; } = new();
+        public List<Product> Products { get; init; }
 
         public double RequiredBinWidth { get; init; }
     }
