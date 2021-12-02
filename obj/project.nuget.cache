@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qh+nOtAvZByrAL4wVXU3E1QxCs0REIE7y0bMPGzhweVGSnGpaKGWIl3s8o1V+84/909tsbvMw3gInBnG57ZbDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dorukhan\\Desktop\\Albelli Assesment\\Assignment\\build.proj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dorukhan\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Dorukhan\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.2\\microsoft.netframework.referenceassemblies.net45.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
